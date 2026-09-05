@@ -2,10 +2,10 @@ This file contains antimicrobial susceptibility testing (AST) records for Escher
 
 **Data source**
 
-Source: Bacterial and Viral Bioinformatics Resource Center (BV-BRC; formerly PATRIC)
-Organism: Escherichia coli
-Data type: Antimicrobial susceptibility testing (AST), including R/S phenotype and MIC measurements
-File type: Tab-delimited text file (.txt)
+* Source: Bacterial and Viral Bioinformatics Resource Center (BV-BRC; formerly PATRIC)
+* Organism: Escherichia coli
+* Data type: Antimicrobial susceptibility testing (AST), including R/S phenotype and MIC measurements
+* File type: Tab-delimited text file (.txt)
 
 **Dataset size**
 
