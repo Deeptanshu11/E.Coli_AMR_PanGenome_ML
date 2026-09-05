@@ -1,4 +1,4 @@
-This file contains processed and filtered antimicrobial susceptibility testing (AST) records for Escherichia coli derived from the Bacterial and Viral Bioinformatics Resource Center (BV-BRC; formerly PATRIC). The dataset was used as the phenotypic source for generating the resistant/susceptible (R/S) classification targets and quantitative minimum inhibitory concentration (MIC) regression targets in the study.
+This file contains antimicrobial susceptibility testing (AST) records for Escherichia coli derived from the Bacterial and Viral Bioinformatics Resource Center (BV-BRC; formerly PATRIC). The dataset was used as the phenotypic source for generating the resistant/susceptible (R/S) classification targets and quantitative minimum inhibitory concentration (MIC) regression targets in the study.Each row represents an antibiotic-specific AST record associated with an E. coli genome/isolate. A genome may therefore occur in multiple rows because multiple antibiotics and/or measurements may be available for the same genome.
 
 **Data source**
 
@@ -12,8 +12,6 @@ File type: Tab-delimited text file (.txt)
 * Total lines: 155,014
 * AST records: 155,013 (excluding the header)
 * Columns: 16
-
-* Each row represents an antibiotic-specific AST record associated with an E. coli genome/isolate. A genome may therefore occur in multiple rows because multiple antibiotics and/or measurements may be available for the same genome.
 
 **Column	Description**
 
